@@ -66,7 +66,7 @@ FA f7(a[6], b[6], w[5], sum[6], w[6]);<br> FA f8(a[7], b[7], w[6], sum[7], carry
 ![image](https://github.com/JAYASHREEER/VLSI-EXPT-1/assets/166278992/8f23ec30-ac97-4a79-8a04-68eac22e5d3f)
 
 ## RESULT :
-       Thus simulate and synthesis Logic Gates, Adders and Subtractor using VIVADO
+       Thus simulate and synthesis Logic Gates, Adders and Subtractor using VIVADO is done .
 
 
 
